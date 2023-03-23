@@ -1,4 +1,4 @@
-# Hi 👋
+# 👋Hi
 Olá! Me chamo Felipe. Iniciei na Programção por hobby e agora virou profissão! Sou apaixonado por informática, programação, computadores e tudo que envolve tecnologia, creio que posso agregar em projetos, adquirindo e compartilhando conhecimento. 
 
 

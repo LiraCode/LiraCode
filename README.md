@@ -1,5 +1,5 @@
 # 👋Hi
-Olá! Me chamo Felipe. Sou apaixonado por TI, programação, computadores e tudo que envolve tecnologia. 
+Olá! Me chamo Felipe. Sou apaixonado por programação, computadores e tudo que envolve tecnologia. 
 
 
 

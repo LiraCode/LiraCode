@@ -5,7 +5,7 @@ Olá! Me chamo Felipe. Sou apaixonado por programação, computadores e tudo que
 
 # 💫About Me :
 - 🌎 Sou de São Paulo-SP
-- 🏫 Estudante de Ciências da Computação - UFAL
+- 🏫 Estudante de Ciência da Computação - UFAL
 - 👨🏻‍💻 Amo programar e aprender sobre tecnologia
 
 
